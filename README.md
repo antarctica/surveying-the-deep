@@ -1,6 +1,6 @@
 # Surveying the Deep: A Review of Computer Vision in the Benthos
 
-This repository hosts the code used to reproduce figures found in the paper _Surveying the Deep: A Review of Computer Vision in the Benthos_ (Trotter _et al._ 2025). **TODO: Link when public**. For this paper, two figures (Figure 1 and Figure 7) were generated programmatically. This is provided here for reproducibility purposes.
+This repository hosts the code used to reproduce figures found in the paper _Surveying the Deep: A Review of Computer Vision in the Benthos_ (Trotter _et al._ 2025). **TODO: Link when public**. For this paper, two figures (Figure 1 and Figure 7) were generated programmatically. The code is provided here for reproducibility purposes.
 
 ## Instructions
 To reproduce the aformentioned figures, please follow these steps.
