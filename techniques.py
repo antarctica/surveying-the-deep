@@ -8,7 +8,7 @@ monitoring literature over time, subdivided by techniques utilised.
 If a publication contained more than a single technique, it is represented multiple times. 
 
 Usage:
-    python3 techniques.py paper_techniques_summary.csv output_dir [options]
+    python3 techniques.py /path/to/paper_techniques_summary.csv output_dir [options]
 
 Author:
     Cameron Trotter (cater@bas.ac.uk)

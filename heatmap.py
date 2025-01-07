@@ -7,7 +7,7 @@ it generates a heatmap showing the geographic origin of image data used to train
 automated benthic image analysis systems.
 
 Usage:
-    python3 heatmap.py lit_rev_lat_longs.csv output_dir [options]
+    python3 heatmap.py /path/to/lit_rev_lat_longs.csv output_dir [options]
 
 Author:
     Cameron Trotter (cater@bas.ac.uk)

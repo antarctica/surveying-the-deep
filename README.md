@@ -21,13 +21,13 @@ mamba activate surveying_the_deep
 To reproduce Figure 1, showing the progression of computer vision-based benthic biodiversity monitoring literature over time, run:
 
 ```bash
-python3 techniques.py paper_techniques_summary.csv $output_path                         
+python3 techniques.py /path/to/paper_techniques_summary.csv $output_path                         
 ```         
 
 To reproduce Figure 7, showing the geographic origin of image data used to train the reviewed automated benthic image analysis systems, run:
 
 ```bash
-python3 heatmap.py lit_rev_lat_longs.csv $output_path
+python3 heatmap.py /path/to/lit_rev_lat_longs.csv $output_path
 ```
 Running both scripts without optional arguments will produce the figures as they appear in the paper. Optional arguments are provided for customisation, please see the help message of each script for more information.
 
