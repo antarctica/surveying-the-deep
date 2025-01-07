@@ -4,7 +4,6 @@ This repository hosts the code used to reproduce figures found in the paper _Sur
 
 ## Instructions
 To reproduce the aformentioned figures, please follow these steps.
-#TODO: Update environment.yaml for python version
 
 ### 1. Download the required CSV files
 Download both `paper_techniques_summary.csv` and `lit_rev_lat_longs.csv`. These are located in the Supplementary Material **(TODO: Link when public)**. The former csv is used to generate Figure 1, and the latter is used to generate Figure 7.
