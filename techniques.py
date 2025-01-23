@@ -2,13 +2,15 @@
 This script generates Figure 1 from Surveying the Deep:
 A Review of Computer Vision in the Benthos (Trotter et al. 2025).
 
-Using paper_techniques_summary.csv as input (downloaded from the paper's supplementary materials),
-it generates a stacked barchart showing the progression of computer vision-based benthic biodiversity
-monitoring literature over time, subdivided by techniques utilised.
-If a publication contained more than a single technique, it is represented multiple times. 
+Using the paper techniques CSV as input, generate a stacked barchart
+showing the progression of computer vision-based benthic biodiversity monitoring 
+literature over time, subdivided by techniques utilised. If a publication contained
+more than a single technique, it is represented multiple times. 
+
+Link to CSV: https://ars.els-cdn.com/content/image/1-s2.0-S1574954124005314-mmc2.csv
 
 Usage:
-    python3 techniques.py /path/to/paper_techniques_summary.csv output_dir [options]
+    python3 techniques.py /path/to/path/to/techniques.csv output_dir [options]
 
 Author:
     Cameron Trotter (cater@bas.ac.uk)

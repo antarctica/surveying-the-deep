@@ -2,12 +2,14 @@
 This script generates Figure 7 from Surveying the Deep:
 A Review of Computer Vision in the Benthos (Trotter et al. 2025).
 
-Using lit_rev_lat_longs.csv as input (downloaded from the paper's supplementary materials),
-it generates a heatmap showing the geographic origin of image data used to train the reviewed
+Using the literature lat-longs CSV as input, generate a heatmap
+showing the geographic origin of image data used to train the reviewed
 automated benthic image analysis systems.
 
+Link to CSV: https://ars.els-cdn.com/content/image/1-s2.0-S1574954124005314-mmc1.csv
+
 Usage:
-    python3 heatmap.py /path/to/lit_rev_lat_longs.csv output_dir [options]
+    python3 heatmap.py /path/to/lat_longs.csv output_dir [options]
 
 Author:
     Cameron Trotter (cater@bas.ac.uk)
