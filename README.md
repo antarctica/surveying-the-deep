@@ -39,13 +39,14 @@ python3 heatmap.py --help
 ## Citation
 
 ```
-@article{trotterSurveyingDeepReview2025,
-  title = {Surveying the Deep: {{A}} Review of Computer Vision in the Benthos},
-  shorttitle = {Surveying the Deep},
-  author = {Trotter, Cameron and Griffiths, Huw J. and Whittle, Rowan J.},
-  year = {2025},
-  journal = {Ecological Informatics},
-  pages = {102989},
-  issn = {15749541},
-  doi = {10.1016/j.ecoinf.2024.102989}
+@article{TROTTER2025102989,
+title = {Surveying the deep: A review of computer vision in the benthos},
+journal = {Ecological Informatics},
+volume = {86},
+pages = {102989},
+year = {2025},
+issn = {1574-9541},
+doi = {https://doi.org/10.1016/j.ecoinf.2024.102989},
+author = {Cameron Trotter and Huw J. Griffiths and Rowan J. Whittle}
+}
 ```
